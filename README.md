@@ -16,7 +16,7 @@ encode each dataset and compares the proxy networks instead of explicitly compar
 - kornia==0.7.0
 
 ## Rendered Datasets
-You can download the our DFlow dataset and the pretrained model from the link below.
+You can download the our DFlow dataset and the pretrained [RAFT](https://github.com/princeton-vl/RAFT) model from the link below.
 - DFlow dataset (https://drive.google.com/drive/folders/1_gu-N_Dfaywd-o-Ag9CMPoMfXurdLCUN?usp=sharing)
 - Pretrained model (https://drive.google.com/drive/folders/1LLpxyGcgE9rUoWsZMdC07bdrV4QQBMEV?usp=sharing)
 
