@@ -37,6 +37,6 @@ If you find this work useful for your research, please cite:
 ```
 
 ## Acknowledgements
-Part of the code is adapted from previous works:
+The majority of the code has been adapted from previous works:
 - [RAFT](https://github.com/princeton-vl/RAFT)
 - [Softmax Splatting](https://github.com/sniklaus/softmax-splatting)
